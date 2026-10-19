@@ -1,0 +1,1 @@
+This project - is my first attempt in making a computer assistant from my old mobile phone using as webcamera. I tried to train small newral network to understand some commands from video srteam. With some success (about 50-50) I train NN to recognize four comands to manage my computer sound settings
